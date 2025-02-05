@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **ysnmfun@gmail.com**
 
+- 📚 I'm student **Istanbul University Web Design And Coding**
+
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
